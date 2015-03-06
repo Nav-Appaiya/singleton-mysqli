@@ -13,9 +13,7 @@ How to use this:
 Now you can do stuff like:
 
 `$leerlingen->count()    // count the results`
-
 `$leerlingen->results()  // Returns results as object`
-
 `$leerlingen[1]->name    // columns are used as key for your object to access values.`
 
 
