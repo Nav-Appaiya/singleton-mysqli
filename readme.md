@@ -1,4 +1,4 @@
-SingletonMysqli wrapper
+A Singleton Mysqli wrapper
 ===
 Singleton:
 - Ensure a class has only one instance, and provide a global point of access to it.
